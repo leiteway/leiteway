@@ -26,12 +26,12 @@ I'm super open to collaboration, learning from others, and maybe even helping ou
 
 ### 📊 Github Stats
 
-![WachiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![WachiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true)
 
 ### 🌐 Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&langs_count=&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&theme=ayu-mirage)](https://github.com/leiteway/github-readme-stats)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leiteway&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=gitdimmed&no-frame=true)
