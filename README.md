@@ -9,8 +9,8 @@ Hey there!👋<br> I'm J. Leite, better known as "Leite" a coding enthusiast tak
 Currently navigating my way through the fascinating landscape of coding, I've been diving into languages like JavaScript and Python, and exploring various projects that pique my interest. These days, I'm sharpening my skills in a coding bootcamp, immersing myself in the fundamentals of web development and diving deep into databases.
 
 ### 🔧 Tech Stack:
-*🚀 Proficient in: HTML, CSS, JavaScript* <br>
-*🌟 Currently learning: React, Node.js, SQL*
+#### *🚀 Proficient in: HTML, CSS, JavaScript* <br>
+#### *🌟 Currently learning: React, Node.js, SQL*
 
 ### 💡 What Drives Me:
 Passionate about leveraging technology to solve real-world problems, I'm on a mission to build, create, and contribute to the open-source community. Exciting times ahead!
