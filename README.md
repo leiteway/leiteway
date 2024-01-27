@@ -4,7 +4,7 @@
 
 ### 🚀 About Me:
 #### Hey there!👋<br>
-I'm J. Leite, better known as "Leite" a coding enthusiast taking my first steps into the exciting world of programming. I've got a boatload of motivation and a ton of eagerness to learn and grow in this amazing community.
+I'm J. Leite, better known as "WachiDev" a coding enthusiast taking my first steps into the exciting world of programming. I've got a boatload of motivation and a ton of eagerness to learn and grow in this amazing community.
 
 ### 🌱 Journey So Far:
 Currently navigating my way through the fascinating landscape of coding, I've been diving into languages like JavaScript and Python, and exploring various projects that pique my interest. These days, I'm sharpening my skills in a coding bootcamp, immersing myself in the fundamentals of web development and diving deep into databases.
@@ -21,12 +21,12 @@ I'm super open to collaboration, learning from others, and maybe even helping ou
 
 ### *Cheers to coding adventures and the fantastic journey ahead! 🚀*
 **Happy coding,** <br>
-**Leite.**
+**WachiDev.**
 
 
 ### 📊 Github Stats
 
-![Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![WachiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ### 🌐 Programming Languages
 
