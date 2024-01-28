@@ -1,6 +1,6 @@
-## 🥷Ninja Coding🥷
+## 🥷🧑🏽‍💻
 ### J. Leite.
-*fullstack ninja web developer*
+*Fullstack Ninja Web Developer*
 
 ### 🚀 About Me:
 #### Hey there!👋<br>
