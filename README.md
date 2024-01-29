@@ -26,7 +26,7 @@ I'm super open to collaboration, learning from others, and maybe even helping ou
 
 ### 📊 Github Stats
 
-![WachiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true)
+[![Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiteway&theme=ayu-mirage)](https://github.com/leiteway/github-readme-stats)
 
 ### 🌐 Programming Languages
 
