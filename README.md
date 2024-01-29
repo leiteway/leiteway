@@ -34,4 +34,4 @@ I'm super open to collaboration, learning from others, and maybe even helping ou
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=gitdimmed&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=leiteway&row=2&column=3&theme=gitdimmed&no-frame=true)
