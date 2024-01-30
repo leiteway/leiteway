@@ -1,5 +1,8 @@
-### 🥷🧑🏽‍💻
-## J. Leite.
+<img src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2NTE1ODEsIm5iZiI6MTcwNjY1MTI4MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMwVDIxNDgwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1ZDBhNmI2YmNlNDJmMGUzZTk0MGFhY2E3YmI3N2EyZDIxYmUxMTgzYTMwNzVmYjhiYmM1ZTVkYjFkYjkwMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vEYnBcW9Nygt9Ak39vB5dfwN4rxkUSnAb9U76ekM7f8" alt="side Image" align="right" width="200" height="auto" />
+
+# Hi Everyone! | Welcome to my page
+
+### J. Leite.
 *Fullstack Ninja Web Developer*
 
 ### 🚀 About Me:
