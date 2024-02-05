@@ -2,7 +2,7 @@
 # Hi Everyone! | Welcome to my page
 
 ### J. Leite.
-*Fullstack Ninja Web Developer*
+*Fullstack Ninja Developer*
 
 ### 🚀 About Me:
 #### Hey there!👋<br>
