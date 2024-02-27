@@ -18,7 +18,7 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 ### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> How to reach me
 <p align="right">
 <a href="mailto:wachi.dev@gmail.com" target="blank"> wachi.dev@gmail.com <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="e-mail j. leite" width="35px" height="35px" /></a>
-<br><a href="https://www.linkedin.com/in/j-leite" target="blank"> J. Leite <img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Canal de LinkedIn de J. Leite (leiteway)" height="27px" width="27px" /></a>
+<br><a href="https://www.linkedin.com/in/leite-dev" target="blank"> J. Leite <img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Canal de LinkedIn de J. Leite (leiteway)" height="27px" width="27px" /></a>
 
 ***
   
