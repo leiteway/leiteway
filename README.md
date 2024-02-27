@@ -47,11 +47,11 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=transparent">
 
-### Trophies <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=leiteway&row=2&column=3&theme=gitdimmed&no-frame=true">
+***
+<span float="left">
+ 
+### Profile Views   <img height="25" align="right" src="https://profile-counter.glitch.me/leiteway/count.svg" />
+
 </span>
 
-***
-
-### Profile Views      <img height="25" align="center" src="https://profile-counter.glitch.me/leiteway/count.svg" />
 </div>
