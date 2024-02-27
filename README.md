@@ -42,7 +42,7 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 ***
 <span align="left">
   
-### Github Stats 📊 
+### GitHub Stats 📊 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=transparent">
