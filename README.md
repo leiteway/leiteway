@@ -6,7 +6,7 @@
 
    
 ### Hey there!👋🏼<br>
-I'm J. Leite, better known as "Leite" a coding enthusiast based in Madrid.
+I'm J. Leite, better known as "Leite", a coding enthusiast based in Madrid.
 <br>
 Currently on my way through the world of coding, I'm sharpening my skills in a fullstack bootcamp at Factoría F5.
 
