@@ -1,17 +1,22 @@
  <div align="right">
-
-<img style="float: left;" src="https://komarev.com/ghpvc/?username=leiteway&label=Profile%20views&color=0e75b6&style=flat" alt="leiteway´s views" />
-  
-# J. Leite | Developer 
  
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350px" height="300px"/>
+# J. Leite | Developer 
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=leiteway&label=Profile%20views&color=0e75b6&style=flat" alt="leiteway´s views" />
+</div>
+ 
+ <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280px" height="250px"/>
 
 
    
 ### Hey there!👋🏼<br>
-I'm J. Leite, better known as "Leite", a coding enthusiast based in Madrid.
+I'm J. Leite, better known as "Leite",
 <br>
-Currently on my way through the world of coding, I'm sharpening my skills in a fullstack bootcamp at Factoría F5.
+a coding enthusiast based in Madrid.
+<br>
+Currently on my way through the world of coding,
+<br>
+I'm sharpening my skills in a fullstack bootcamp at Factoría F5.
 
 
  
@@ -20,7 +25,7 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 
 ### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> How to reach me
 <p align="right">
-<a href="mailto:leite.way@gmail.com" target="blank"> leite.way@gmail.com <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="e-mail j. leite" width="35px" height="35px" /></a>
+<a href="mailto:leite.way@gmail.com" target="blank"> leite.way@gmail.com <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="e-mail j. leite" width="30px" height="30px" /></a>
 <br><a href="https://www.linkedin.com/in/leite-dev" target="blank"> J. Leite <img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Canal de LinkedIn de J. Leite (leiteway)" height="27px" width="27px" /></a>
 
 ***
@@ -54,5 +59,6 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=transparent">
+</span>
 
 </div>
