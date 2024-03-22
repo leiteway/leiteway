@@ -1,4 +1,6 @@
  <div align="right">
+
+<img style="float: left;" src="https://komarev.com/ghpvc/?username=leiteway&label=Profile%20views&color=0e75b6&style=flat" alt="leiteway´s views" />
   
 # J. Leite | Developer 
  
@@ -52,12 +54,5 @@ Currently on my way through the world of coding, I'm sharpening my skills in a f
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=transparent">
-
-***
-<span float="left">
- 
-### Profile Views   <img height="25" align="right" src="https://profile-counter.glitch.me/leiteway/count.svg" />
-
-</span>
 
 </div>
