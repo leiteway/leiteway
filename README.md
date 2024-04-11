@@ -52,12 +52,10 @@ I'm sharpening my skills in a fullstack bootcamp at Factoría F5.
   
 ### GitHub Stats 📊 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=gotham">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiteway&layout=compact&theme=gotham">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=leiteway&show_icons=true&theme=gotham">
 </span>
 
 </div>
 
 ***
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leiteway&custom_title=Leite's%20GitHub%20Activity%20Graph&theme=gotham&area=true" alt="Leite's activity days" width="1000px" height="300px">
