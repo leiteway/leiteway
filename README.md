@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=leiteway&label=Profile%20views&color=0e75b6&style=flat" alt="leiteway´s views" />
-<a href="https://app.daily.dev/leite"><img align="right" src="https://api.daily.dev/devcards/v2/VAzfwaTF4tNBc5YI3ywzi.png?type=default&r=xev" width="356" alt="Leite's Dev Card"/></a>
+<a href="https://app.daily.dev/leite"><img align="right" src="https://api.daily.dev/devcards/v2/VAzfwaTF4tNBc5YI3ywzi.png?type=default&r=xev" width="300" alt="Leite's Dev Card"/></a>
  <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350px" height="300px"/>-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=23CBA8&random=false&width=410&lines=Hi+there!+I'm+Leite👋🏼;Web+Developer+%26+Frontend;Welcome+to+my+page%F0%9F%91%BD)](https://git.io/typing-svg)
