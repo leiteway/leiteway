@@ -8,14 +8,15 @@
  
 ***
 
-
  <!--Social icons section-->
 ### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> How to reach me 
 
-  <a href="https://www.linkedin.com/in/leite-dev/"><img width="42px" alt="LinkedIn" title="Leite's LinkedIn" src="https://raw.githubusercontent.com/leiteway/leiteway/main/icons8-linkedin-48.png"/></a>
-  <a href="mailto:leiteway@gmail.com"><img width="42px" alt="Gmail" title="Leite's Gmail" src="https://raw.githubusercontent.com/leiteway/leiteway/main/icons8-gmail-50.png">
-  <a href="https://twitter.com/leiteway"><img width="42px" alt="Twitter" title="Leite's Twitter" src="https://raw.githubusercontent.com/leiteway/leiteway/main/icons8-twitterx-50.png"/></a>
- 
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://www.linkedin.com/in/leite-dev/"><img width="45px" alt="LinkedIn" title="Leite's LinkedIn" src="https://raw.githubusercontent.com/leiteway/leiteway/main/assets/icons8-linkedin-64.png"/></a>
+  <a href="mailto:leiteway@gmail.com"><img width="40px" alt="Gmail" title="Leite's Gmail" src="https://raw.githubusercontent.com/leiteway/leiteway/main/assets/icons8-gmail-50.png"/></a>
+  <a href="https://twitter.com/leiteway"><img width="40px" alt="Twitter" title="Leite's Twitter" src="https://raw.githubusercontent.com/leiteway/leiteway/main/assets/icons8-twitterx-50.png"/></a>
+</div>
+
 ***
  
 <h3>🛠️ Tools & Languages</h3>
