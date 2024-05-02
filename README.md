@@ -1,6 +1,6 @@
 <div align="right">
  
-![](https://komarev.com/ghpvc/?username=leiteway&color=23CBA8)
+![](https://komarev.com/ghpvc/?username=leiteway&color=23CBA8&abbreviated=true)
 
 </div>
 <!--<a href="https://app.daily.dev/leite"><img align="right" src="https://api.daily.dev/devcards/v2/VAzfwaTF4tNBc5YI3ywzi.png?type=default&r=xev" width="300" alt="Leite's Dev Card"/></a>-->
