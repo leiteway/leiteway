@@ -1,6 +1,6 @@
 <div align="right">
  
-![](https://komarev.com/ghpvc/?username=leiteway&color=23CBA8&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=leiteway&color=blueviolet&abbreviated=true)
 
 </div>
  <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350px" height="300px"/>-->
@@ -9,7 +9,7 @@
   <!-- Contenido del lado izquierdo -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=23CBA8&random=false&width=410&lines=Hi+there!+I'm+Leite👋🏼;Web+Developer+%26+Frontend;Welcome+to+my+page%F0%9F%91%BD" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=36BCF7FF&random=false&width=410&lines=Hi+there!+I'm+Leite👋🏼;Web+Developer+%26+Frontend;Welcome+to+my+page%F0%9F%91%BD" alt="Typing SVG">
     </a>
     <br>
     📍 Based in Madrid <br/>
