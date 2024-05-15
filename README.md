@@ -29,26 +29,26 @@
       <td align="center">
         <h4>Programming</h4>
         <p>
-          <img alt="JAVASCRIPT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-          <img alt="HTML" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-          <img alt="CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-          <img alt="BASH" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+          <img alt="JAVASCRIPT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+          <img alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+          <img alt="CSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+          <img alt="BASH" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
           <br/>
-          <img alt="MARKDOWN" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-          <img alt="NODEJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-          <img alt="TYPESCRIPT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+          <img alt="MARKDOWN" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+          <img alt="NODEJS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+          <img alt="TYPESCRIPT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
         </p>
       </td>
       <td align="center">
         <h4>Frameworks and Libraries</h4>
         <p>
-          <img alt="REACT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-          <img alt="TAILWINDCSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-          <img alt="NPM" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+          <img alt="REACT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+          <img alt="TAILWINDCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+          <img alt="NPM" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
           <br/>
-          <img alt="BOOTSTRAP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-          <img alt="MATERIAL-UI" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-          <img alt="NEXTJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+          <img alt="BOOTSTRAP" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+          <img alt="MATERIAL-UI" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+          <img alt="NEXTJS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
         </p>
       </td>
       <td align="center">
