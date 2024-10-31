@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=36BCF7FF&random=false&width=410&lines=Hi+there!+I'm+Leite👋🏼;Web+Developer+%26+Frontend;Welcome+to+my+page%F0%9F%91%BD" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=36BCF7FF&random=false&width=410&lines=Hi+there!+I'm+Leite👋🏼;Web+Developer+%26+Data+Science;Welcome+to+my+page%F0%9F%91%BD" alt="Typing SVG">
     </a>
     <br>
     📍 Based in Madrid <br/>
@@ -29,26 +29,26 @@
       <td align="center">
         <h4>Programming</h4>
         <p>
-          <img alt="JAVASCRIPT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-          <img alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-          <img alt="CSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-          <img alt="BASH" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+          <img alt="JAVASCRIPT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+          <img alt="HTML" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+          <img alt="CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+          <img alt="BASH" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
           <br/>
-          <img alt="MARKDOWN" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-          <img alt="NODEJS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-          <img alt="TYPESCRIPT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+          <img alt="MARKDOWN" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+          <img alt="NODEJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+          <img alt="TYPESCRIPT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
         </p>
       </td>
       <td align="center">
         <h4>Frameworks and Libraries</h4>
         <p>
-          <img alt="REACT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-          <img alt="TAILWINDCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-          <img alt="NPM" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+          <img alt="REACT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+          <img alt="TAILWINDCSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+          <img alt="NPM" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
           <br/>
-          <img alt="BOOTSTRAP" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-          <img alt="MATERIAL-UI" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-          <img alt="NEXTJS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+          <img alt="BOOTSTRAP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+          <img alt="MATERIAL-UI" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+          <img alt="NEXTJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
         </p>
       </td>
       <td align="center">
@@ -71,6 +71,16 @@
           <br/>
           <img alt="POSTMAN" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
           <img alt="VISUAL-STUDIO-CODE" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+        </p>
+      </td>
+     <td align="center">
+        <h4>Data Science Tools</h4>
+        <p>
+          <img alt="PYTHON" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+          <img alt="PANDAS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+          <br/>
+          <img alt="JUPYTER" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+          <img alt="SQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
         </p>
       </td>
     </tr>
