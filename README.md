@@ -50,7 +50,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Frameworks-Libraries</h4>
+        <h4>Frameworks | Libraries</h4>
         <p>
           <img alt="REACT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
           <img alt="TAILWINDCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
@@ -62,7 +62,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Databases-Cloud Hosting</h4>
+        <h4>Databases | Cloud Hosting</h4>
         <p>
           <img alt="SQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
           <img alt="NOTION" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
@@ -73,7 +73,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Software-Tools</h4>
+        <h4>Software | Tools</h4>
         <p>
           <img alt="GITHUB" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
           <img alt="CHROME" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg">
