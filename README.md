@@ -26,6 +26,16 @@
   <h3 align="center">Tools & Languages</h3>
   <table align="center">
     <tr>
+     <td align="center">
+        <h4>Data Science</h4>
+        <p>
+          <img alt="PYTHON" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+          <img alt="PANDAS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+          <br/>
+          <img alt="JUPYTER" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+          <img alt="SQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+        </p>
+      </td>
       <td align="center">
         <h4>Programming</h4>
         <p>
@@ -40,7 +50,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Frameworks and Libraries</h4>
+        <h4>Frameworks-Libraries</h4>
         <p>
           <img alt="REACT" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
           <img alt="TAILWINDCSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
@@ -52,7 +62,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Databases and Cloud Hosting</h4>
+        <h4>Databases-Cloud Hosting</h4>
         <p>
           <img alt="SQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
           <img alt="NOTION" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
@@ -63,7 +73,7 @@
         </p>
       </td>
       <td align="center">
-        <h4>Software and Tools</h4>
+        <h4>Software-Tools</h4>
         <p>
           <img alt="GITHUB" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
           <img alt="CHROME" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg">
@@ -71,16 +81,6 @@
           <br/>
           <img alt="POSTMAN" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
           <img alt="VISUAL-STUDIO-CODE" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-        </p>
-      </td>
-     <td align="center">
-        <h4>Data Science Tools</h4>
-        <p>
-          <img alt="PYTHON" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-          <img alt="PANDAS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-          <br/>
-          <img alt="JUPYTER" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-          <img alt="SQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
         </p>
       </td>
     </tr>
